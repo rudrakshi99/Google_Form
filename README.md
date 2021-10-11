@@ -20,7 +20,6 @@ Type checks
 
 Running type checks with mypy:
 
-::
 
   $ mypy google_forms
 
