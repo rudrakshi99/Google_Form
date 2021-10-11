@@ -20,8 +20,7 @@ Type checks
 
 Running type checks with mypy:
 
-
-  $ mypy google_forms
+    $ mypy google_forms
 
 Test coverage
 
